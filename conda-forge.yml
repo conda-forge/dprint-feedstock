@@ -1,6 +1,6 @@
 bot:
   automerge: true
-build_platform:labels:
+build_platform:
   osx_arm64: osx_64
 github:
   branch_name: main
