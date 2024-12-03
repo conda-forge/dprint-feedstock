@@ -3,7 +3,7 @@ About dprint-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/dprint-feedstock/blob/main/LICENSE.txt)
 
-Home: https://dprint.dev
+Home: https://dprint.dev/
 
 Package license: MIT
 
