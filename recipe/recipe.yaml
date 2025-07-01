@@ -1,5 +1,5 @@
 context:
-  version: "0.50.0"
+  version: "0.50.1"
 
 package:
   name: dprint
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/dprint/dprint/archive/${{ version }}.tar.gz
-  sha256: 28a9538c293a1cbe2af8241d687c44309dd1aa1c514c6a937ef3c25699dce4ea
+  sha256: 85197a9469fe479fc278e77e87ede6eeb55b7d42d0a530e8b828f3ab9b213358
 
 build:
   number: 0
